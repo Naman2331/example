@@ -1,1 +1,1 @@
-print("naman")
+print("naman singla")
